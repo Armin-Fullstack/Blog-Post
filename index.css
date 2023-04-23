@@ -80,3 +80,9 @@ body {
   top: -10px;
   font-weight: bold;
 }
+.author-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  gap: 15px;
+}
