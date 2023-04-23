@@ -38,3 +38,16 @@ body {
   font-style: normal;
   margin-right: 5px;
 }
+.menu a:link,
+.menu a:visited {
+  margin-right: 30px;
+  color: #1098ad;
+}
+.menu a:last-child {
+  margin-right: 0;
+}
+.menu a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  color: orangered;
+}
