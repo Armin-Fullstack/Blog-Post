@@ -62,3 +62,9 @@ body {
   margin-bottom: 40px;
   position: relative;
 }
+
+.post-header-title {
+  color: #1098ad;
+  margin-bottom: 30px;
+  font-size: 40px;
+}
