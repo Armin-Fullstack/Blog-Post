@@ -86,3 +86,12 @@ body {
   margin-bottom: 15px;
   gap: 15px;
 }
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.post-image {
+  width: 100%;
+}
