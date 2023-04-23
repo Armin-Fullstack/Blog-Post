@@ -68,3 +68,15 @@ body {
   margin-bottom: 30px;
   font-size: 40px;
 }
+.post-header-title::after {
+  content: "TOP";
+  background-color: yellow;
+  color: black;
+  font-size: 16px;
+  display: inline-block;
+  padding: 5px 10px;
+  position: absolute;
+  right: -25px;
+  top: -10px;
+  font-weight: bold;
+}
