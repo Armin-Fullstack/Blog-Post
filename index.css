@@ -6,3 +6,11 @@
   text-decoration: none;
   box-sizing: border-box;
 }
+
+/* body  */
+body {
+  font-family: sans-serif;
+  color: #444;
+  border-top: 10px solid #1098ad;
+  position: relative;
+}
