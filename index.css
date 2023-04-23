@@ -19,3 +19,12 @@ body {
   width: 1200px;
   margin: 0 auto;
 }
+
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7f7f7;
+  padding: 20px 40px;
+  margin-bottom: 60px;
+}
