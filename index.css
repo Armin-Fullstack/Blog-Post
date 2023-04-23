@@ -14,3 +14,8 @@ body {
   border-top: 10px solid #1098ad;
   position: relative;
 }
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
