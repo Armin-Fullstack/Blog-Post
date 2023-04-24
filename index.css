@@ -19,6 +19,16 @@ body {
   width: 1200px;
   margin: 0 auto;
 }
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h3 {
+  color: #1098ad;
+  font-size: 30px;
+  margin: 20px 0;
+}
 
 .main-header {
   display: flex;
@@ -131,8 +141,45 @@ p {
   font-style: normal;
   display: inline-block;
   margin-bottom: 5px;
+  color: #1098ad;
+}
+.related-link:link,
+.related-link:visited {
+  color: #1098ad;
+}
+.related-link:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  color: orangered;
+}
+ul,
+ol {
+  margin-bottom: 20px;
+}
+ol {
+  line-height: 2;
+  margin-top: 14px;
+}
+.learn-html {
+  margin-top: 10px;
+  line-height: 2;
+}
+.learn-html + p {
+  margin-bottom: 10px;
 }
 .related-author {
   font-style: italic;
   font-size: 14px;
+}
+
+.mdn:link , .mdn:visited { 
+  color: #1098ad;
+}
+.mdn:hover , .mdn:focus {
+  font-weight: bold;
+  color: orangered;
+  text-decoration: underline;
+}
+footer {
+  margin-bottom: 12px;
 }
