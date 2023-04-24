@@ -114,3 +114,13 @@ p {
   text-transform: uppercase;
   font-size: 26px;
 }
+
+.related-post {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.related-post:last-child {
+  margin-bottom: 0;
+}
