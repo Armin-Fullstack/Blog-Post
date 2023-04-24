@@ -55,8 +55,7 @@ body {
 .row {
   display: flex;
   gap: 75px;
-  margin-bottom: 60px;
-}
+git }
 
 .post-header {
   margin-bottom: 40px;
@@ -94,4 +93,17 @@ p {
 
 .post-image {
   width: 100%;
+}
+
+.secondry-info {
+    background-color: #f7f7f7;
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid #1098ad;
+    padding: 50px 40px;
+    flex: 0 0 300px;
+    align-self: flex-start;
+}
+
+.article {
+  flex: 1
 }
