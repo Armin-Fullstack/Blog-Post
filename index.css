@@ -55,7 +55,7 @@ body {
 .row {
   display: flex;
   gap: 75px;
-git }
+}
 
 .post-header {
   margin-bottom: 40px;
@@ -123,4 +123,12 @@ p {
 }
 .related-post:last-child {
   margin-bottom: 0;
+}
+
+.related-link:link {
+  font-weight: bold;
+  font-size: 17px;
+  font-style: normal;
+  display: inline-block;
+  margin-bottom: 5px;
 }
