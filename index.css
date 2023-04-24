@@ -132,3 +132,7 @@ p {
   display: inline-block;
   margin-bottom: 5px;
 }
+.related-author {
+  font-style: italic;
+  font-size: 14px;
+}
