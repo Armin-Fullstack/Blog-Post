@@ -26,7 +26,10 @@ body {
   grid-column: 1 / -1;
 }
 
-
+.product-image {
+  width: 250px;
+  height: 250px;
+}
 .add-cart {
   color: white;
   background-color: black;
