@@ -35,6 +35,12 @@ body {
   display: flex;
   gap: 40px;
 }
+
+.product-info {
+  margin-top: 20px;
+  flex: 1;
+}
+
 .add-cart {
   color: white;
   background-color: black;
