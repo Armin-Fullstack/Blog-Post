@@ -72,6 +72,15 @@ body {
   top: -17px;
   left: -38px;
 }
+.more-info-link:link , .more-info-link:visited {
+  font-size: 14px;
+  color: black;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.more-info-link:hover  , .more-info-link:active{
+  text-decoration: none;
+}
 .add-cart {
   color: white;
   background-color: black;
