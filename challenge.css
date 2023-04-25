@@ -25,3 +25,22 @@ body {
   padding: 10px 0;
   grid-column: 1 / -1;
 }
+
+
+.add-cart {
+  color: white;
+  background-color: black;
+  text-transform: uppercase;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+  width: 100%;
+  padding: 15px 0;
+  border-top: 4px solid black;
+  grid-column: 1 / -1;
+}
+.add-cart:hover {
+ background-color: white;
+ color: black;
+ 
+}
