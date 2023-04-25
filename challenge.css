@@ -107,7 +107,10 @@ body {
 .product-color-6 { 
   background-color: brown;
 }
-
+.product-details {
+  flex: 1;
+  margin-top: 20px;
+}
 .add-cart {
   color: white;
   background-color: black;
