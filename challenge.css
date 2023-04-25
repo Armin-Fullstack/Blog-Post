@@ -56,6 +56,9 @@ body {
   color: #777;
   font-size: 12px;
 }
+.product-discription {
+  margin-bottom: 10px;
+}
 .add-cart {
   color: white;
   background-color: black;
