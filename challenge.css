@@ -30,6 +30,11 @@ body {
   width: 250px;
   height: 250px;
 }
+
+.product-info-container {
+  display: flex;
+  gap: 40px;
+}
 .add-cart {
   color: white;
   background-color: black;
