@@ -47,6 +47,10 @@ body {
   justify-content: space-between;
   margin-bottom: 20px;
 }
+.product-price {
+  font-size: 24px;
+}
+
 .add-cart {
   color: white;
   background-color: black;
