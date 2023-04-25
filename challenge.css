@@ -111,6 +111,11 @@ body {
   flex: 1;
   margin-top: 20px;
 }
+.prodcut-details-title {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
 .add-cart {
   color: white;
   background-color: black;
