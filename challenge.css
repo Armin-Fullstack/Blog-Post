@@ -13,8 +13,9 @@ body {
   width: 825px;
   margin: 50px auto;
   position: relative;
-  display: grid;
+   display: grid;
   grid-template-columns: 250px 1fr 1fr;
+  column-gap: 40px;
 }
 
 .product-title {
@@ -33,7 +34,6 @@ body {
 
 .product-info-container {
   display: flex;
-  gap: 40px;
 }
 
 .product-info {
@@ -115,6 +115,11 @@ body {
   text-transform: uppercase;
   font-size: 16px;
   margin-bottom: 15px;
+}
+.details-list {
+  list-style-type: square;
+  margin-left: 20px;
+  line-height: 2;
 }
 .add-cart {
   color: white;
