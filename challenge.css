@@ -81,6 +81,33 @@ body {
 .more-info-link:hover  , .more-info-link:active{
   text-decoration: none;
 }
+.color {
+  display: flex;
+  gap: 10px;
+}
+.product-color-1 , .product-color-2, .product-color-3 ,.product-color-4, .product-color-5 , .product-color-6 {
+  width: 20px;
+  height: 20px;
+}
+.product-color-1 {
+  background-color: black;
+}
+.product-color-2 {
+  background-color: blue;
+}
+.product-color-3 {
+  background-color: red;
+}
+.product-color-4 {
+  background-color: orange;
+}
+.product-color-5 {
+  background-color: green;
+}
+.product-color-6 { 
+  background-color: brown;
+}
+
 .add-cart {
   color: white;
   background-color: black;
