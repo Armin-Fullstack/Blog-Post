@@ -59,6 +59,19 @@ body {
 .product-discription {
   margin-bottom: 10px;
 }
+.sale {
+  background-color: red;
+  color: white;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 7px 15px;
+  font-weight: bold;
+  position: absolute;
+  top: -17px;
+  left: -38px;
+}
 .add-cart {
   color: white;
   background-color: black;
